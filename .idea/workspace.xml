@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6ae1855-a3b7-4876-82f5-54b53817568b" name="Changes" comment="teständerung im testbranch">
+    <list default="true" id="d6ae1855-a3b7-4876-82f5-54b53817568b" name="Changes" comment="Änderung im MASTER">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="testbranch_1" />
+        <entry key="$PROJECT_DIR$" value="testbranch2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,7 +115,35 @@
       <option name="project" value="LOCAL" />
       <updated>1678355987055</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="teständerung im testbranch">
+      <created>1678357212085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678357212085</updated>
+    </task>
+    <task id="LOCAL-00005" summary="teständerung im testbranch">
+      <created>1678357323147</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678357323147</updated>
+    </task>
+    <task id="LOCAL-00006" summary="teständerung im testbranch">
+      <created>1678357360269</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678357360269</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Änderung im MASTER">
+      <created>1678357439888</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678357439888</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +160,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="testbranch_1" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -147,6 +176,7 @@
     <MESSAGE value="...." />
     <MESSAGE value="bla" />
     <MESSAGE value="teständerung im testbranch" />
-    <option name="LAST_COMMIT_MESSAGE" value="teständerung im testbranch" />
+    <MESSAGE value="Änderung im MASTER" />
+    <option name="LAST_COMMIT_MESSAGE" value="Änderung im MASTER" />
   </component>
 </project>

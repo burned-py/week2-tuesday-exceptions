@@ -41,6 +41,19 @@ public class Main {
         //ArrayList Einträge können nur über index angesprochen werden
 
 
+        //
+        //
+        //
+
+        //dieser code ist mies dann kommentiere ich ihn doch besser weg
+
+        //
+        //
+
+
+
+
+
 
         /////</COLLECTIONS>
 

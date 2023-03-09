@@ -11,7 +11,6 @@ public class Main {
         Student student3 = new Student("789", "Daniel");
 
 
-
         //////<COLLECTIONS>
         //////List
 /*        ArrayList<Student> students = new ArrayList<Student>();
@@ -21,8 +20,8 @@ public class Main {
         //Map
         Map<Integer, Student> studentsMap = new HashMap<>();
 
-        studentsMap.put(1, new Student ("777", "Petra"));
-        studentsMap.put(2, new Student ("111", "Peter"));
+        studentsMap.put(1, new Student("777", "Petra"));
+        studentsMap.put(2, new Student("111", "Peter"));
 
         //studentsMap.remove(1);
         System.out.println(studentsMap.get(1));
@@ -48,20 +47,9 @@ public class Main {
         //dieser code ist mies dann kommentiere ich ihn doch besser weg
 
 
-
-         bin ich jetzt im testbranch?!
-                ----> war ich nicht. aber jetzt!
-                ---> und das hier schreibe ich auch noch rein.
-
-
-                nö, aber ich weiß jetzt, dass ich im master branch schreib.
-                --> und i ch nenne auch die commit message so
+        //lorem ipsum dolor
         //
         //
-
-
-
-
 
 
         /////</COLLECTIONS>

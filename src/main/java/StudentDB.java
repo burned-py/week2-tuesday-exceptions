@@ -1,5 +1,6 @@
 import java.util.Arrays;
 import java.util.List;
+import java.util.NoSuchElementException;
 
 
 public class StudentDB {
@@ -30,19 +31,21 @@ public class StudentDB {
     public Student findById2(String id) {
         for (int i = 0; i < students.length; i++) {
             if (id.equals(students[i].getId())) {
+                // alternativ
+                // if (students[i].getId().equals(id)) {
                 return students[i];
             }
         }
-        return null;
-        //throw new Exception();
+        throw new NoSuchElementException(); //weil dies eine unchecked exception ist, müssten wir sie oben nicht throwen
     }
 
-        /////////////////////////
-        @Override
-        public String toString() {
-            return "StudentDB{" +
-                    "students=" + Arrays.toString(students) +
-                    '}';
-        }
+
+    /////////////////////////
+    @Override
+    public String toString() {
+        return "StudentDB{" +
+                "students=" + Arrays.toString(students) +
+                '}';
     }
+}
 
